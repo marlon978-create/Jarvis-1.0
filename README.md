@@ -12,21 +12,21 @@ A demo video of Jarvis running is included in this repository and on my portfoli
 - Simple memory functionality
 
 # Tech Stacks
--Python
--Ollama
--Local LLM
+- Python
+- Ollama
+- Local LLM
 
 ## What I learned
 While building Jarvis I learned how to:
--Work with local language models
--Handling user input and responses
--building a simple memory system
--debugging and testing AI applications
+- Work with local language models
+- Handling user input and responses
+- building a simple memory system
+- debugging and testing AI applications
 
 # Futre plans
 I plan to continue upgrading Jarvis as time goes on. Some things I plan to do is add:
-  -Voice input and output
-  -Improve memory 
-  -User authenticaiton
-  -A graphical interface
-  -Integration with other applications.
+- Voice input and output
+- Improve memory 
+- User authenticaiton
+- A graphical interface
+- Integration with other applications.
